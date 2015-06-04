@@ -1,7 +1,9 @@
 # Hackbox
-Hackbox
+
+Hackbox, a "Hackable Blackbox", is published under Apache 2.0 license.
 
 # License
+
    Copyright 2015 Drawpie Design
 
    Licensed under the Apache License, Version 2.0 (the "License");
